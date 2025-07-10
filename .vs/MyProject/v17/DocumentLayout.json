@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kocha\\OneDrive\\Pulpit\\kurs_testy_automatyczne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{250A6D95-DC33-412C-80BA-5D7BBC215F1A}|UnitTests\\UnitTests.csproj|c:\\users\\kocha\\onedrive\\pulpit\\kurs_testy_automatyczne\\unittests\\metricbmicalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250A6D95-DC33-412C-80BA-5D7BBC215F1A}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\metricbmicalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250A6D95-DC33-412C-80BA-5D7BBC215F1A}|UnitTests\\UnitTests.csproj|c:\\users\\kocha\\onedrive\\pulpit\\kurs_testy_automatyczne\\unittests\\metricbmicalculatortestsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250A6D95-DC33-412C-80BA-5D7BBC215F1A}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\metricbmicalculatortestsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250A6D95-DC33-412C-80BA-5D7BBC215F1A}|UnitTests\\UnitTests.csproj|c:\\users\\kocha\\onedrive\\pulpit\\kurs_testy_automatyczne\\unittests\\jsonfiledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250A6D95-DC33-412C-80BA-5D7BBC215F1A}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\jsonfiledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250A6D95-DC33-412C-80BA-5D7BBC215F1A}|UnitTests\\UnitTests.csproj|c:\\users\\kocha\\onedrive\\pulpit\\kurs_testy_automatyczne\\unittests\\bmicalculatorfacadetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250A6D95-DC33-412C-80BA-5D7BBC215F1A}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\bmicalculatorfacadetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonFileData.cs",
+              "DocumentMoniker": "C:\\Users\\kocha\\OneDrive\\Pulpit\\kurs_testy_automatyczne\\UnitTests\\JsonFileData.cs",
+              "RelativeDocumentMoniker": "UnitTests\\JsonFileData.cs",
+              "ToolTip": "C:\\Users\\kocha\\OneDrive\\Pulpit\\kurs_testy_automatyczne\\UnitTests\\JsonFileData.cs",
+              "RelativeToolTip": "UnitTests\\JsonFileData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswCQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:59:24.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MetricBmiCalculatorTestsData.cs",
+              "DocumentMoniker": "C:\\Users\\kocha\\OneDrive\\Pulpit\\kurs_testy_automatyczne\\UnitTests\\MetricBmiCalculatorTestsData.cs",
+              "RelativeDocumentMoniker": "UnitTests\\MetricBmiCalculatorTestsData.cs",
+              "ToolTip": "C:\\Users\\kocha\\OneDrive\\Pulpit\\kurs_testy_automatyczne\\UnitTests\\MetricBmiCalculatorTestsData.cs",
+              "RelativeToolTip": "UnitTests\\MetricBmiCalculatorTestsData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:44:24.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MetricBmiCalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\kocha\\OneDrive\\Pulpit\\kurs_testy_automatyczne\\UnitTests\\MetricBmiCalculatorTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\MetricBmiCalculatorTests.cs",
+              "ToolTip": "C:\\Users\\kocha\\OneDrive\\Pulpit\\kurs_testy_automatyczne\\UnitTests\\MetricBmiCalculatorTests.cs",
+              "RelativeToolTip": "UnitTests\\MetricBmiCalculatorTests.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:42:06.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BmiCalculatorFacadeTests.cs",
+              "DocumentMoniker": "C:\\Users\\kocha\\OneDrive\\Pulpit\\kurs_testy_automatyczne\\UnitTests\\BmiCalculatorFacadeTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\BmiCalculatorFacadeTests.cs",
+              "ToolTip": "C:\\Users\\kocha\\OneDrive\\Pulpit\\kurs_testy_automatyczne\\UnitTests\\BmiCalculatorFacadeTests.cs",
+              "RelativeToolTip": "UnitTests\\BmiCalculatorFacadeTests.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:38:01.352Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
