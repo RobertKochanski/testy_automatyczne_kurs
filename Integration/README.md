@@ -1,3 +1,0 @@
-# RestaurantAPI
-
-Hello world
